@@ -1,16 +1,14 @@
-name,address,description,phone
-HOTEL PUERTA DE SANTANDER BARBOSA,KM. 2 Vía Barbosa - Bucaramanga,Centro Vacacional y Recreativo en Barbosa,(+57) 311 2790000
-PRODUCTOS INDUSTRIALES Y DESECHABLES,Cra 21 52 - 10,Todo en productos desechables,(+57) 318 5114418
-Refriautomatismos Ltda.,Cr 82 #7D - 41,Fabricación y comercialización de equipos.,(+57) 313 3761156
-Hotel San Sebastián Real,Trans 54 95 - 28,El hotel donde el confort arrulla tu sueño.,(+57) 311 7690314
-Telares Medellín,Cra 15 # 14-33,Descubra nuestras ofertas y novedades,(+57) 318 7115682
-Servem Servicios de Eventos Empresariales,Cl 31 43 - 90 Sector San Diego,SERVICIOS DE EVENTOS EN MEDELLÍN...,(+57) 322 2105548
-Districor,Cl26 30 - 60,Empresa de productros desechables,(+57) 317 6179634
-Hotel Costa del Sol,Bgde Av 1 A Con Cl 9 Esq,"Playa, brisa, mar y la mejor estadía con nosotros",(+57) 315 3146325
-Uniformes NDG Nora de Greiff,Cr25 12-S 59 Of 9911,"Diseño de uniformes, empresas, colegios y dotación",(+57) 317 4356109
-Aero Vacaciones Ltda.,Tr 55 #98a-66 L 210 C.C. Iserra 100,Consulte ahora,(+57) 310 3231441
-Aparta-Estudios La Candelaria,Cl 10 2 - 40,Contáctenos !,(+57) 313 4421805
-Hotel El Marques de Manga,Cra 18a - # 26-117,¡Reserve ahora y disfrute su estancia!,(+57) 324 4985625
-HOTEL CIUDAD BONITA,Cl 35 22 - 01,El Alma de Santander hecha Hotel.,(+57) 314 8153155
-HOTEL & PIZZERÍA ASTURIAS,Carrera 22 # 35-01,Reserva tu hotel en el centro de Bucaramanga,(+57) 318 4153607
-Aparta Hotel Las Violetas,Cr15 42a - 03,El Lugar que Necesitas.,(+57) 318 7087442
+name,address,typeOfFood,information
+IHOP,Fisherman's Wharf,Pancakes,Outdoor seating
+KFC,Mission,Chicken Wings,Delivery
+Cantoo Latin Asian Rotisserie,$$,Chinese,Outdoor seating
+Dumpling Baby China Bistro,Inner Richmond,Chinese,Offers Delivery
+C.Q. Noodles,$$,Chinese,Waitlist is closed
+Dumpling Story,Pacific Heights,Asian Fusion,Opened 7 weeks ago
+Farmhouse Kitchen Thai Cuisine,$$,Thai,Offers Delivery
+Pasha Sf,Tenderloin,Mediterranean,Opened 6 weeks ago
+Kung Food,$$,Chinese,Outdoor seating
+Chang’s Kitchen,$$,Chinese,Outdoor seating
+House of Thai,$$,Thai,Outdoor seating
+Ginto Express,SoMa,Japanese Curry,Offers Delivery
+Starbucks,Civic Center,Breakfast & Brunch,Delivery
